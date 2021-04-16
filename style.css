@@ -38,8 +38,13 @@ img {
     block-size: 75px;
     margin-top: 12px;
     margin-right: 13px;
+    
 }
 
+.intro .image {
+    width:89%;
+    height:100%;
+}
 
 
 header h3 {
@@ -73,7 +78,7 @@ nav ul{
 nav ul li a {
     color: Black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-right: 20px;
+    margin-right: 13px;
     font-style: italic;
     font-weight: 800;
     text-decoration: none;
@@ -177,6 +182,12 @@ form {
 @media all and (min-width:800px) {
     section {
         padding: 0 5%
+    }
+    .intro .image {
+        margin-left: auto; 
+        margin-right: auto;
+        width:400px;
+        height:400px;
     }
     #projectTag {
         margin-left: 45px;
