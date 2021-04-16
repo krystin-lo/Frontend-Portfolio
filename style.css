@@ -1,0 +1,195 @@
+body, html {
+    background: linear-gradient(#8ee80e,#00b2cb);
+    object-fit: fill;
+    max-width: 100%;
+    margin: 0;
+    overflow-x: hidden;
+ }
+
+header {
+    background: linear-gradient(to left, #e1fa20,#ffffff);
+    border-style: solid;
+    border-color: #04b0c7;
+    border-width: thin;
+    border-bottom: 0px;
+    border-right: 0px;
+}
+
+header nav ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    padding-bottom: 0;
+    padding-left: 0;
+}
+
+img {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-style:inherit
+}
+
+#foo img:first-child {
+    float: right;
+    block-size: 75px;
+    margin-top: 12px;
+    margin-right: 13px;
+}
+
+
+
+header h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 40px;
+    color: #f59c37; 
+    text-shadow: 2px 2px 2px #000;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    border-style: solid;
+    border-width: thin;
+    border-color: #038394;
+    margin-top: 0px;
+    background: #04b0c7;
+}
+
+nav ul{
+    display: flex;
+    padding-left: 30;
+    list-style: none;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color:#fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 20px;
+    font-style: italic;
+    font-weight: 800;
+}
+
+.intro ul li{
+    color:#fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-shadow: 2px 2px 2px lightsalmon ;
+    font-size: 40px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+main  {
+    padding: 20 px 0;
+}
+
+section  p {
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color:white;
+
+}
+
+.group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 100px;
+}
+
+.item {
+    flex: 1;
+    margin: 10px;
+}
+  
+.item-double {
+    flex: 2;
+}
+
+.project {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: -150px;
+}
+
+.contactForm {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.contactList {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.contact h2 {
+    margin-top: 20px;
+}
+
+.map {
+    margin-top: -10px;
+}
+
+form {
+    padding-right: 8px;
+    /* Fixed small sizing issue on the right */
+  }
+  
+  form label {
+    display: block;
+  }
+  
+  form input, 
+  form textarea {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  form textarea {
+    height: 160px;
+  }
+
+  footer {
+    background-color: rgba(0, 41, 41, 0.7);
+    font-size: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    margin-top: -50px;
+    text-align: center;
+}
+
+@media all and (min-width:800px) {
+    section {
+        padding: 0 5%
+    }
+    #projectTag {
+        margin-left: 45px;
+    }
+    .project {
+        display: flex;
+        flex-direction: row;
+    }
+    .contactForm {
+        display: flex;
+        flex-direction: row;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .map {
+        margin-top: -20px;
+    }
+}
