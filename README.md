@@ -61,6 +61,9 @@ The location displays a map and information about where the portfolio owner is b
 ##
 
 ### Footer
+The footer is a common design element that is viewed more so compared to the top of the page as supported by a article by charbeat about scroll behavior across the web. Out of a random sample of 25 million user sessions from across a wide sample of sites and content types and took a look at where these users spent their time reading.
+[Learn more about the Charbeat Article](https://blog.chartbeat.com/2013/08/12/scroll-behavior-across-the-web/)
+
 [![foot.jpg](https://i.postimg.cc/xjmLxrjZ/foot.jpg)](https://postimg.cc/mhbck5H3)
 
 ##
