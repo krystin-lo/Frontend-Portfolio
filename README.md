@@ -72,4 +72,6 @@ The location displays a map and information about where the portfolio owner is b
 
 [![ex-head.jpg](https://i.postimg.cc/nrjq45Rv/ex-head.jpg)](https://postimg.cc/8fGFDyV5)
 
-- CSS: Assists in how the information is laid out on the webpage from the color of the font to the placement of an image.
+- CSS: Assists in how the information is laid out on the webpage from the color of the font to the placement of an text box.
+
+[![css.jpg](https://i.postimg.cc/FshSpDW5/css.jpg)](https://postimg.cc/DmYmyd3B)
