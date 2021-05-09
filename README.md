@@ -66,6 +66,10 @@ The location displays a map and information about where the portfolio owner is b
 ##
 
 ## Technical Stack
-* HTML: Aids in the layout of the text with the usage of tags and elements. An example of an element is the header element(<h1>) and in this case the header is The largest available size in HTML and represents texts such as titles or categorization.
+- HTML: Aids in the layout of the text with the usage of tags and elements. An example of an element is the header element and in this case the header is The largest available size in HTML and represents texts such as titles or categorization.
 
-* CSS: Assists in how the information is laid out on the webpage from the color of the font to the placement of an image.
+  - An example of a header element with a depiction of the element with proper HTML usagage, input, and output.
+
+[![ex-head.jpg](https://i.postimg.cc/nrjq45Rv/ex-head.jpg)](https://postimg.cc/8fGFDyV5)
+
+- CSS: Assists in how the information is laid out on the webpage from the color of the font to the placement of an image.
