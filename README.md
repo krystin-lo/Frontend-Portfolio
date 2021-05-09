@@ -36,6 +36,8 @@ The introduction is a formal presentation of the portfolio owner.
 ##
 
 ### About Me
+This section explains the events that lead to the Portfolio owner's decision to start a career in the technology industry.
+
 [![about.jpg](https://i.postimg.cc/DyWPKWcx/about.jpg)](https://postimg.cc/w7pmXjZN)
 
 ##
@@ -64,5 +66,6 @@ The location displays a map and information about where the portfolio owner is b
 ##
 
 ## Technical Stack
-* HTML
-* CSS
+* HTML: Aids in the layout of the text with the usage of tags and elements. An example of an element is the header element(<h1>) and in this case the header is The largest available size in HTML and represents texts such as titles or categorization.
+
+* CSS: Assists in how the information is laid out on the webpage from the color of the font to the placement of an image.
