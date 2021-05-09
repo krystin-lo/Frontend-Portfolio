@@ -56,7 +56,7 @@ A contact page is a common web page on a website for visitors to contact the org
 ##
 
 ### Location
-The location displays a map and information about where the portfolio owner is based.
+The location displays a map and information about where the portfolio owner is based. It helps customers or website visitors get directions to your business and saves customers the steps of opening a new browser window, leaving your website, and finding directions.
 [![location.jpg](https://i.postimg.cc/43Y8L8Sx/location.jpg)](https://postimg.cc/VScB5Fwx)
 
 ##
