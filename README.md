@@ -5,8 +5,12 @@ The objective of the Front-end Portfolio is to show case ...
 
 [![full.jpg](https://i.postimg.cc/2888qvtx/full.jpg)](https://postimg.cc/7bdydCwC)
 
+##
+
 ### Header
 [![header.jpg](https://i.postimg.cc/4yGy2SBC/header.jpg)](https://postimg.cc/vgPGcXJX)
+
+##
 
 ### Navigation Bar
 [![nav.jpg](https://i.postimg.cc/brn0kWrK/nav.jpg)](https://postimg.cc/dZqTKW8B)
