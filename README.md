@@ -24,6 +24,7 @@ The header is a banner to showcase the owner of the portfolio with a nice accent
 The navigation bar allows the user to navigate to different parts of the page.
 
 * Reminder: The portfolio will have basic functionalities which will not be using another webpage, meaning that the home page will be the only page you will be navigating around. 
+
 [![nav.jpg](https://i.postimg.cc/brn0kWrK/nav.jpg)](https://postimg.cc/dZqTKW8B)
 
 ##
