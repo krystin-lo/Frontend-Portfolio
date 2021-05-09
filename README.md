@@ -21,7 +21,7 @@ The header is a banner to showcase the owner of the portfolio with a nice accent
 ##
 
 ### Navigation Bar
-The navigation bar allows the user to navigate to different parts of the page.
+The navigation bar allows the user to navigate to different parts of the page, in technical terms it is a list of links. A navigation bar needs standard HTML as a base. In our examples we will build the navigation bar from a standard HTML list.
 
 * Reminder: The portfolio will have basic functionalities which will not be using another webpage, meaning that the home page will be the only page you will be navigating around. 
 
@@ -30,7 +30,7 @@ The navigation bar allows the user to navigate to different parts of the page.
 ##
 
 ### Introduction
-The introduction is a formal presentation of the portfolio owner.
+The introduction is a formal presentation of the portfolio owner and serves as a short “elevator pitch” letting the visitor know what your site is about.
 [![intro.jpg](https://i.postimg.cc/KYmT44nS/intro.jpg)](https://postimg.cc/K1sjHGqJ)
 
 ##
