@@ -41,6 +41,8 @@ The introduction is a formal presentation of the portfolio owner.
 ##
 
 ### Project Portoflio
+
+This area of the project exhibits  implements flexbox columns and rows
 [![projects.jpg](https://i.postimg.cc/fyP79ZM7/projects.jpg)](https://postimg.cc/GTkTWW89)
 
 ##
