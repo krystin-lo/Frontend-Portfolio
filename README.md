@@ -1,5 +1,5 @@
 # Frontend-Portfolio
-The Front-end Portfolio project is a funcitonal website that showcases my software developer portfolio. 
+The Front-end Portfolio project is a funcitonal website that showcases my software developer portfolio on both mobile and computer layouts. The portfolio will have basic functionalities which will not be using another webpage, meaning that the home page will be the only page you will be navigating around. 
 
 - Project Objectives:
   - Create a page layout using flexbox.
@@ -15,16 +15,21 @@ The Front-end Portfolio project is a funcitonal website that showcases my softwa
 ##
 
 ### Header
+The header is a banner to showcase the owner of the portfolio with a nice accent to the left hand corner to exhibit the portfolio owner's hobby in digital art.
 [![header.jpg](https://i.postimg.cc/4yGy2SBC/header.jpg)](https://postimg.cc/vgPGcXJX)
 
 ##
 
 ### Navigation Bar
+The navigation bar allows the user to navigate to different parts of the page.
+
+* Reminder: The portfolio will have basic functionalities which will not be using another webpage, meaning that the home page will be the only page you will be navigating around. 
 [![nav.jpg](https://i.postimg.cc/brn0kWrK/nav.jpg)](https://postimg.cc/dZqTKW8B)
 
 ##
 
 ### Introduction
+The introduction is a formal presentation of the portfolio owner.
 [![intro.jpg](https://i.postimg.cc/KYmT44nS/intro.jpg)](https://postimg.cc/K1sjHGqJ)
 
 ##
@@ -45,6 +50,7 @@ The Front-end Portfolio project is a funcitonal website that showcases my softwa
 ##
 
 ### Location
+The location displays a map and information about where the portfolio owner is based.
 [![location.jpg](https://i.postimg.cc/43Y8L8Sx/location.jpg)](https://postimg.cc/VScB5Fwx)
 
 ##
