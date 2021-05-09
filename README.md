@@ -1,5 +1,12 @@
 # Frontend-Portfolio
-The objective of the Front-end Portfolio is to show case ...
+The Front-end Portfolio project is a funcitonal website that showcases my software developer portfolio. 
+
+- Project Objectives:
+  - Create a page layout using flexbox.
+  - Implement appropriate media queries for responsive design.
+  - Follow a mobile-first development approach.
+  - Use responsive navigation.
+  - Use appropriate input types for the form.
 
 [Live Demo](https://frontend-portfolio-eight.vercel.app/)
 
@@ -47,6 +54,6 @@ The objective of the Front-end Portfolio is to show case ...
 
 ##
 
-# Technical Stack
+## Technical Stack
 * HTML
 * CSS
