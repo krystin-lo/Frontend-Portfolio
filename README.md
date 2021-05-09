@@ -44,12 +44,13 @@ This section explains the events that lead to the Portfolio owner's decision to 
 
 ### Project Portoflio
 
-This area of the project exhibits  implements flexbox columns and rows
+This area of the project exhibits a history of projects for clients to view to see what kind of work the software developer has done. The portfolio implements a layout system known as flexbox to manipulate the placement of items through the creation of rows or columns.
 [![projects.jpg](https://i.postimg.cc/fyP79ZM7/projects.jpg)](https://postimg.cc/GTkTWW89)
 
 ##
 
 ### Contact Information
+A contact page is a common web page on a website for visitors to contact the organization or individual providing the website. This section showcases my skills in linking websites to text, html listing, and the ability to create forms.
 [![contact.jpg](https://i.postimg.cc/XJVgMQ25/contact.jpg)](https://postimg.cc/67mZnLx6)
 
 ##
